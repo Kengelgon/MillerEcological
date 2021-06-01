@@ -6,13 +6,7 @@ The goal of this repository is to track changes in the creation of a demo projec
 A collection of source material and photos taken in Miller Ecological Park in Lebanon, OH. Renders of this park in blender will be used in Unity as a plane to test
 character movement and properties. 
 
-# GOALS
-#TODO: Commit source photos  
-#TODO: Commit thumbnail drawings  
-#TODO: Create Blender landscape  
-#TODO: Commit Blender landscape  
-#TODO: Add Blender created landscape to Unity  
-#TODO: Commit Unity project  
+
 
 # Longterm goals:
 - Create a character model
