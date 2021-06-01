@@ -7,12 +7,12 @@ A collection of source material and photos taken in Miller Ecological Park in Le
 character movement and properties. 
 
 # GOALS
-#TODO: Commit source photos
-#TODO: Commit thumbnail drawings
-#TODO: Create Blender landscape
-#TODO: Commit Blender landscape
-#TODO: Add Blender created landscape to Unity
-#TODO: Commit Unity project
+#TODO: Commit source photos  
+#TODO: Commit thumbnail drawings  
+#TODO: Create Blender landscape  
+#TODO: Commit Blender landscape  
+#TODO: Add Blender created landscape to Unity  
+#TODO: Commit Unity project  
 
 # Longterm goals:
 - Create a character model
